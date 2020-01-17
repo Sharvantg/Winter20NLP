@@ -18,7 +18,7 @@ import scipy
 stopwords = set(stopwords.words('english'))
 
 words=[]
-folder_path = "/Users/sharvan/Desktop/NLP_Task"
+folder_path = "/Users/sharvan/Desktop/Winter20NLP/NLP_Task2"
 file_list = os.listdir(folder_path)
 doc = []
 for i in file_list:
